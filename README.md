@@ -1,16 +1,61 @@
-# React + Vite
+# 🌊 Voyage — Interactive Ocean & Travel Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and beautifully designed web application built to explore destinations with seamless navigation and an engaging user interface.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the live project here: [Voyage Live Link]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
+- **Responsive Navbar:** Smooth navigation across all screen sizes (mobile, tablet, desktop).
+- **Optimized Destinations Layout:** Clean grid alignment with proper spacing and padding conflicts resolved.
+- **Interactive Components:** Dynamic state management and sleek UI design elements.
+- **Modern Aesthetic:** Crafted with attention to detail, smooth transitions, and high-performance layout styling.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
+- **Frontend:** React.js / HTML5 / CSS3 / JavaScript
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 📂 Project Structure
+```text
+Voyage/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+
+
+
+⚙️ Getting Started Locally
+To run this project on your local machine, follow these simple steps:
+
+Clone the repository:
+
+Bash
+git clone [https://github.com/Mahak-012/Voyage.git](https://github.com/Mahak-012/Voyage.git)
+Navigate to the project directory:
+
+Bash
+cd Voyage
+Install dependencies:
+
+Bash
+npm install
+Run the development server:
+
+Bash
+npm start
+
+👩‍💻 Author
+Mahak
+
+GitHub: @Mahak-012
